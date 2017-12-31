@@ -1,0 +1,3 @@
+[submodule "dallascoin"]
+	path = dallascoin
+	url = https://github.com/InnovAnon-Inc/dallascoin.git
